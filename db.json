@@ -1,5 +1,11 @@
 {
-          "posts":[
-                    {"id":1,"name":"anwar"}
-          ]
+  "dogs": [
+    {
+      "name": "anwar",
+      "age": "40",
+      "place": "kolkata",
+      "gender": "Male",
+      "id": 1
+    }
+  ]
 }
