@@ -58,7 +58,11 @@
       "difficulty": "hard",
       "question": "Which of the following liquids is least viscous? Assume temperature is 25&deg;C.",
       "correct_answer": "Acetone",
-      "incorrect_answers": ["Water", "Mercury", "Benzene"]
+      "incorrect_answers": [
+        "Water",
+        "Mercury",
+        "Benzene"
+      ]
     },
     {
       "id": 2,
@@ -67,7 +71,11 @@
       "difficulty": "hard",
       "question": "Who played Stan&#039;s dog in the South Park episode &quot;Big Gay Al&#039;s Big Gay Boat Ride&quot;?",
       "correct_answer": "George Clooney",
-      "incorrect_answers": ["Jay Leno", "Matt Stone", "Robert Smith"]
+      "incorrect_answers": [
+        "Jay Leno",
+        "Matt Stone",
+        "Robert Smith"
+      ]
     },
     {
       "id": 3,
@@ -76,7 +84,11 @@
       "difficulty": "easy",
       "question": "What is the largest animal currently on Earth?",
       "correct_answer": "Blue Whale",
-      "incorrect_answers": ["Orca", "Colossal Squid", "Giraffe"]
+      "incorrect_answers": [
+        "Orca",
+        "Colossal Squid",
+        "Giraffe"
+      ]
     },
     {
       "id": 4,
@@ -85,7 +97,11 @@
       "difficulty": "easy",
       "question": "Who played the female lead in the 1933 film &quot;King Kong&quot;?",
       "correct_answer": "Fay Wray",
-      "incorrect_answers": ["Jean Harlow", "Vivien Leigh", "Mae West"]
+      "incorrect_answers": [
+        "Jean Harlow",
+        "Vivien Leigh",
+        "Mae West"
+      ]
     },
     {
       "id": 5,
@@ -107,7 +123,11 @@
       "difficulty": "hard",
       "question": "On the Beaufort Scale of wind force, what wind name is given to number 8?",
       "correct_answer": "Gale",
-      "incorrect_answers": ["Storm", "Hurricane", "Breeze"]
+      "incorrect_answers": [
+        "Storm",
+        "Hurricane",
+        "Breeze"
+      ]
     },
     {
       "id": 7,
@@ -116,7 +136,11 @@
       "difficulty": "medium",
       "question": "By what nickname is Jack Dawkins known in the Charles Dickens novel, &#039;Oliver Twist&#039;?",
       "correct_answer": "The Artful Dodger",
-      "incorrect_answers": ["Fagin", "Bull&rsquo;s-eye", "Mr. Fang"]
+      "incorrect_answers": [
+        "Fagin",
+        "Bull&rsquo;s-eye",
+        "Mr. Fang"
+      ]
     },
     {
       "id": 8,
@@ -125,7 +149,9 @@
       "difficulty": "easy",
       "question": "The Spitfire originated from a racing plane.",
       "correct_answer": "True",
-      "incorrect_answers": ["False"]
+      "incorrect_answers": [
+        "False"
+      ]
     },
     {
       "id": 9,
@@ -147,7 +173,11 @@
       "difficulty": "medium",
       "question": "Enzo Ferrari was originally an auto racer for what manufacturer before founding his own car company?",
       "correct_answer": "Alfa Romeo",
-      "incorrect_answers": ["Auto Union", "Mercedes Benz", "Bentley"]
+      "incorrect_answers": [
+        "Auto Union",
+        "Mercedes Benz",
+        "Bentley"
+      ]
     },
     {
       "id": 11,
@@ -156,7 +186,9 @@
       "difficulty": "medium",
       "question": "The longest place named in the United States is Lake Chargoggagoggmanchauggagoggchaubunagungamaugg, located near Webster, MA.",
       "correct_answer": "True",
-      "incorrect_answers": ["False"]
+      "incorrect_answers": [
+        "False"
+      ]
     },
     {
       "id": 12,
@@ -178,7 +210,11 @@
       "difficulty": "medium",
       "question": "Where did the dog breed &quot;Chihuahua&quot; originate?",
       "correct_answer": "Mexico",
-      "incorrect_answers": ["France", "Spain", "Russia"]
+      "incorrect_answers": [
+        "France",
+        "Spain",
+        "Russia"
+      ]
     },
     {
       "id": 14,
@@ -187,7 +223,11 @@
       "difficulty": "medium",
       "question": "In the 1994 movie &quot;Speed&quot;, what is the minimum speed the bus must go to prevent to bomb from exploding?",
       "correct_answer": "50 mph",
-      "incorrect_answers": ["60 mph", "40 mph", "70 mph"]
+      "incorrect_answers": [
+        "60 mph",
+        "40 mph",
+        "70 mph"
+      ]
     },
     {
       "id": 5,
@@ -196,7 +236,11 @@
       "difficulty": "medium",
       "question": "Which German city is located on the River Isar?",
       "correct_answer": "Munich",
-      "incorrect_answers": ["Berlin", "Hamburg", "Dortmund"]
+      "incorrect_answers": [
+        "Berlin",
+        "Hamburg",
+        "Dortmund"
+      ]
     },
     {
       "id": 16,
@@ -205,7 +249,9 @@
       "difficulty": "easy",
       "question": "&quot;Ananas&quot; is mostly used as the word for Pineapple in other languages.",
       "correct_answer": "True",
-      "incorrect_answers": ["False"]
+      "incorrect_answers": [
+        "False"
+      ]
     },
     {
       "id": 17,
@@ -227,7 +273,9 @@
       "difficulty": "medium",
       "question": "The Sniper&#039;s SMG in Team Fortress 2, was originally intended to be the Scout&#039;s primary weapon.",
       "correct_answer": "True",
-      "incorrect_answers": ["False"]
+      "incorrect_answers": [
+        "False"
+      ]
     },
     {
       "id": 19,
@@ -236,7 +284,11 @@
       "difficulty": "easy",
       "question": "The element involved in making human blood red is which of the following?",
       "correct_answer": "Iron",
-      "incorrect_answers": ["Copper", "Iridium", "Cobalt"]
+      "incorrect_answers": [
+        "Copper",
+        "Iridium",
+        "Cobalt"
+      ]
     },
     {
       "id": 20,
@@ -245,7 +297,11 @@
       "difficulty": "easy",
       "question": "What was the cause of Marilyn Monroes suicide?",
       "correct_answer": "Drug Overdose",
-      "incorrect_answers": ["Knife Attack", "House Fire", "Gunshot"]
+      "incorrect_answers": [
+        "Knife Attack",
+        "House Fire",
+        "Gunshot"
+      ]
     },
     {
       "id": 21,
@@ -254,7 +310,11 @@
       "difficulty": "medium",
       "question": "Mirror&#039;s Edge Catalyst takes place in the City of...?",
       "correct_answer": "Glass",
-      "incorrect_answers": ["Mirrors", "Purity", "Diamonds"]
+      "incorrect_answers": [
+        "Mirrors",
+        "Purity",
+        "Diamonds"
+      ]
     },
     {
       "id": 22,
@@ -263,7 +323,11 @@
       "difficulty": "hard",
       "question": "In the National Pokedex what number is Porygon-Z?",
       "correct_answer": "474",
-      "incorrect_answers": ["376", "432", "589"]
+      "incorrect_answers": [
+        "376",
+        "432",
+        "589"
+      ]
     },
     {
       "id": 23,
@@ -272,7 +336,11 @@
       "difficulty": "hard",
       "question": "Which car did not appear in the 2002 Lego Game: Drome Racers?",
       "correct_answer": "Wasp",
-      "incorrect_answers": ["Raptor", "Hornet", "Behemoth"]
+      "incorrect_answers": [
+        "Raptor",
+        "Hornet",
+        "Behemoth"
+      ]
     },
     {
       "id": 24,
@@ -281,7 +349,9 @@
       "difficulty": "easy",
       "question": "In the original Star Wars trilogy, David Prowse was the actor who physically portrayed Darth Vader.",
       "correct_answer": "True",
-      "incorrect_answers": ["False"]
+      "incorrect_answers": [
+        "False"
+      ]
     },
     {
       "id": 25,
@@ -290,7 +360,9 @@
       "difficulty": "hard",
       "question": "&quot;Cube&quot;, &quot;Cube 2: Hypercube&quot; and &quot;Cube Zero&quot; were directed by the same person.",
       "correct_answer": "False",
-      "incorrect_answers": ["True"]
+      "incorrect_answers": [
+        "True"
+      ]
     },
     {
       "id": 26,
@@ -299,7 +371,11 @@
       "difficulty": "medium",
       "question": "When did The Beatles release the LP &quot;Please Please Me&quot;?",
       "correct_answer": "1963",
-      "incorrect_answers": ["1970", "1960", "1969"]
+      "incorrect_answers": [
+        "1970",
+        "1960",
+        "1969"
+      ]
     },
     {
       "id": 27,
@@ -349,15 +425,6 @@
       "Salary": "5LPA"
     }
   ],
-  "users": [
-    {
-      "id": 1,
-      "username": "anwar123",
-      "email": "anwar1@gmail.com",
-      "password": "abc123",
-      "doctor": false
-    }
-  ],
   "appoinments": [
     {
       "id": 1,
@@ -389,7 +456,11 @@
       "email": "john@example.com",
       "password": "password",
       "profession": "Web Developer",
-      "skills": ["HTML", "CSS", "JavaScript"],
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
       "hourly_rate": 25,
       "profile_picture": "profile1.jpg",
       "isBooked": false
@@ -400,10 +471,57 @@
       "email": "jane@example.com",
       "password": "password",
       "profession": "Graphic Designer",
-      "skills": ["Photoshop", "Illustrator"],
+      "skills": [
+        "Photoshop",
+        "Illustrator"
+      ],
       "hourly_rate": 30,
       "profile_picture": "profile2.jpg",
       "isBooked": true
+    }
+  ],
+  "forum": [
+    {
+      "username": "JohnDoe123",
+      "questionTitle": "How to sort an array in JavaScript?",
+      "questionDescription": "I'm struggling with sorting an array in JavaScript. Can someone please provide guidance?",
+      "language": "JavaScript",
+      "postedDate": "2023-05-30"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Chandra",
+      "age": 25,
+      "place": "Visakhapatnam",
+      "batch_name": "WEB-21",
+      "profession": "FSD"
+    },
+    {
+      "id": 2,
+      "name": "Nrupul",
+      "age": 37,
+      "place": "Vijayawada",
+      "batch_name": "WEB-18",
+      "profession": "FSD"
+    },
+    {
+      "name": "anwar",
+      "age": "25",
+      "place": "malda",
+      "batch_name": "Web-13",
+      "profession": "FSD",
+      "id": 3
+    },
+  
+    {
+      "name": "anwar",
+      "age": "21",
+      "place": "kolkata",
+      "batch_name": "Web-15",
+      "profession": "Student",
+      "id": 5
     }
   ]
 }
