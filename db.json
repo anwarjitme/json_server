@@ -46,7 +46,6 @@
       "Price": 500000
     }
   ],
- 
   "employees": [
     {
       "id": 1,
@@ -134,6 +133,78 @@
       "hourly_rate": 30,
       "profile_picture": "profile2.jpg",
       "isBooked": true
+    },
+    {
+      "name": "anwar",
+      "profile_picture": "https://avatars.githubusercontent.com/u/103638817?s=400&u=6df1c995df9f6d6f718e3dcc56eddd8cd2199503&v=4",
+      "email": "anwar@123",
+      "password": "anwar123",
+      "profession": "Web Developer",
+      "skills": [
+        "React",
+        "java"
+      ],
+      "hourly_rate": "20",
+      "isBooked": false,
+      "id": 3
+    },
+    {
+      "name": "anwar",
+      "profile_picture": "https://avatars.githubusercontent.com/u/103638817?s=400&u=6df1c995df9f6d6f718e3dcc56eddd8cd2199503&v=4",
+      "email": "missingjit@gmail.com",
+      "password": "7u564y",
+      "profession": "Web Developer",
+      "skills": [
+        "React",
+        "JS",
+        "nax"
+      ],
+      "hourly_rate": "22",
+      "isBooked": false,
+      "id": 4
+    },
+    {
+      "name": "myzingoy",
+      "profile_picture": "https://avatars.githubusercontent.com/u/103638817?s=400&u=6df1c995df9f6d6f718e3dcc56eddd8cd2199503&v=4",
+      "email": "missingjit@gmail.com",
+      "password": "ewrtw",
+      "profession": "Web Developer",
+      "skills": [
+        "dsa",
+        "coding"
+      ],
+      "hourly_rate": "11",
+      "isBooked": false,
+      "id": 5
+    },
+    {
+      "name": "Huskey",
+      "profile_picture": "https://avatars.githubusercontent.com/u/103638817?s=400&u=6df1c995df9f6d6f718e3dcc56eddd8cd2199503&v=4",
+      "email": "missingjit@gmail.com",
+      "password": "egftwr",
+      "profession": "Graphic Designer",
+      "skills": [
+        "React",
+        "java",
+        "dsa"
+      ],
+      "hourly_rate": "33",
+      "isBooked": false,
+      "id": 6
+    },
+    {
+      "name": "Huskey",
+      "profile_picture": "https://avatars.githubusercontent.com/u/103638817?s=400&u=6df1c995df9f6d6f718e3dcc56eddd8cd2199503&v=4",
+      "email": "missingjit@gmail.com",
+      "password": "fewr",
+      "profession": "Student",
+      "skills": [
+        "dsa",
+        "coding"
+      ],
+      "hourly_rate": "11",
+      "isBooked": false,
+      "id": 7
     }
   ],
   "forum": [
@@ -145,17 +216,7 @@
       "postedDate": "2023-05-30"
     }
   ],
-  "users": [
-     {
-      "id": 1,
-      "name": "Chandra",
-      "age": 25,
-      "place": "Visakhapatnam",
-      "batch_name": "WEB-21",
-      "profession": "FSD"
-    }
-  ] ,
-   "questions": [
+  "questions": [
     {
       "id": 1,
       "category": "Science & Nature",
@@ -549,8 +610,35 @@
       "price": 1000
     }
   ],
-  "user":[
-
-  ],
-  "data":[]
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "password": "password",
+      "profession": "Web Developer",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "hourly_rate": 25,
+      "profile_picture": "profile1.jpg",
+      "isBooked": false
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "password": "password",
+      "profession": "Graphic Designer",
+      "skills": [
+        "Photoshop",
+        "Illustrator"
+      ],
+      "hourly_rate": 30,
+      "profile_picture": "profile2.jpg",
+      "isBooked": true
+    }
+  ]
 }
